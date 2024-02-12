@@ -1,6 +1,7 @@
 <h1 align='center'>
-    FrequencyForum
     <br>
+    FrequencyForum
+    <br><br>
     <a href="https://github.com/Mstaz4/Blog_Telecomunicaciones/blob/main/LICENSE">
     <img
         alt='LICENSE Logo'

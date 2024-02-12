@@ -28,7 +28,7 @@ software_engineers.append(
         alias="@j4breu",
         philosophy="enough > perfection",
         interesest="Software Arquitecture",
-        social=["<p>Gmail</p>joelabreurojas@gmail.com", "https://github.com/j4breu"]
+        social=["joelabreurojas@gmail.com", "https://github.com/j4breu"]
     )
 )
 ```

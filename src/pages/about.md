@@ -2,35 +2,40 @@
 layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
+FrequencyForum es un espacio en línea dedicado a abordar temas relevantes en el ámbito de las comunicaciones y la teoría de las ondas. Nuestro blog de telecomunicaciones es el lugar ideal para profesionales y entusiastas de la tecnología de la información, que deseen indagar temas como frecuencias, cambios de frecuencia, GMRS y otros aspectos relacionados.
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+Nuestra comunidad se esfuerza por fomentar un ambiente acogedor donde se promueva el intercambio de conocimientos y la colaboración entre expertos en el campo. Únete a nosotros para ampliar tu comprensión en este apasionante ámbito.
 
 ## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+Este proyecto se encuentra desarrollado en JavaScript vainilla (+ TypeScript para la comprobación de tipos) y un poco de ReactJS para ciertas interacciones. TailwindCSS se utiliza para el estilo y Markdown para el contenido del blog.
 
-## Features
+## Authors
 
-Here are certain features of this site.
+### Joel Abreu
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+```python
+software_engineers.append(
+    Person(
+        alias="@j4breu",
+        philosophy="enough > perfection",
+        interesest="Software Arquitecture",
+        social=["joelabreurojas@gmail.com", "https://github.com/j4breu"]
+    )
+)
+```
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+### Luis Brito
+
+```python
+software_engineers.append(
+    Person(
+        alias="@Mstaz4",
+        philosophy="still learning",
+        interesest="Computer Science"
+        social=["br1toluis0602@gmail.com", "https://github.com/Mstaz4"]
+    )
+)
+```
+
+Si te gusta este proyecto, no dudes en darnos una estrella/contribuir en nuestro [repositorio](https://github.com/Mstaz4/Blog_Telecomunicaciones).

@@ -1,10 +1,10 @@
 <h1 align='center'>
-    input.h
+    FrequencyForum
     <br>
     <a href="https://github.com/Mstaz4/Blog_Telecomunicaciones/blob/main/LICENSE">
     <img
         alt='LICENSE Logo'
-        src='https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=555555'/>
+        src='https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=f1e05a'/>
     </a>
     <div></div>
 </h1>

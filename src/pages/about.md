@@ -8,9 +8,7 @@ FrequencyForum es un espacio en línea dedicado a abordar temas relevantes en el
 <img src="/assets/frequency.svg" class="sm:w-1/2 mx-auto" alt="frequency colors illustration">
 </div>
 
-
-
-Nuestra comunidad se esfuerza por fomentar un ambiente acogedor donde se promueva el intercambio de conocimientos y la colaboración entre expertos en el campo. Únete a nosotros para ampliar tu comprensión en este apasionante ámbito.
+Nuestra comunidad se esfuerza por fomentar un ambiente acogedor donde se promueva el intercambio de conocimientos y la colaboración entre expertos en el campo. [Únete](https://www.youtube.com/watch?v=dQw4w9WgXcQ) a nosotros para ampliar tu comprensión en este apasionante ámbito.
 
 ## Tech Stack
 
